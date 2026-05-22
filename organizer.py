@@ -46,4 +46,5 @@ def organize_folder(folder_path):
 
                 print(f"Moved {file} → {FOLDER_MAPPING[extension]}")
 
-organize_folder("test_folder")
+if __name__ == "__main__":
+    organize_folder("test_folder")
