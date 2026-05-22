@@ -81,7 +81,7 @@ AI-FILE-ORGANIZER-MCP/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-file-organizer-mcp.git
+git clone https://github.com/kaviyadharshini2805/AI-FILE-ORGANIZER-MCP.git
 ```
 
 ---
