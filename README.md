@@ -194,9 +194,7 @@ Pull requests and suggestions are welcome!
 
 # Screenshots
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9aed6b3d-6075-4c68-b9f1-c0e145e4e784" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/77a04c07-78b5-45a5-9e8b-7d21829ca4ff" />
 <img width="1918" height="1073" alt="image" src="https://github.com/user-attachments/assets/114bceee-7bc3-4553-995a-08c1f1024220" />
-<img width="1918" height="1073" alt="image" src="https://github.com/user-attachments/assets/deabb6ce-c2ee-475a-b662-e94614783aef" />
 <img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/2d723aca-97a1-4782-9bdd-6b5a673aff49" />
 <img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/0c757e1c-3d74-49aa-a5ae-f56e16a28037" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/176e771b-c1b8-43b4-91de-d82eb2c2b3e0" />
